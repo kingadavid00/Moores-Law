@@ -1,0 +1,32 @@
+/* CSS Document */
+
+body {
+	font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, 'sans-serif';
+	background-color: beige;
+	width: 100%;
+}
+
+#wrapper {
+	background-color: white;
+	width: 70%;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+a:link{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: cornflowerblue;
+}
+
+a:visited {
+	color: black;
+}
+
+footer {
+	text-align: center;
+}
